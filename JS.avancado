@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Projeto JS</title>
+</head>
+<body>
+
+<h1>Mini Sistema JS</h1>
+
+<button onclick="menu(1)">1 - Curtidas</button>
+<button onclick="menu(2)">2 - Porteiro</button>
+<button onclick="menu(3)">3 - Calculadora</button>
+<button onclick="menu(4)">4 - Média</button>
+<button onclick="menu(5)">5 - Tabuada</button>
+<button onclick="menu(6)">6 - Missões</button>
+<button onclick="menu(7)">7 - Validação</button>
+<button onclick="menu(8)">8 - Adivinhação</button>
+<button onclick="menu(9)">9 - Votação</button>
+<button onclick="menu(10)">10 - Cadastro</button>
+
+<div id="area"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
